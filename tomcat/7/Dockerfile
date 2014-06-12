@@ -1,4 +1,4 @@
-FROM docker-images/oracle-jdk/8
+FROM dockerfile/java
 
 MAINTAINER Seven Code "https://github.com/SevenCode"
 
